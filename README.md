@@ -1,4 +1,5 @@
-# cs520-f23-group-12: Data Integration, Warehousing, and Provenance
+# cs520-f23-group-12: Data Integration, Warehousing, 
+and Provenance
 
 Welcome to cs520-f23-group-12! This course focuses on the concepts of data integration, data warehousing, and data provenance.
 
