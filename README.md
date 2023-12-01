@@ -7,7 +7,7 @@ Welcome to cs520-f23-group-12! This course focuses on the concepts of data integ
 The group has undertaken the review of the following paper:
 - **Explaining Dataset Changes for Semantic Data Versioning with Explain-Da-V**
 
-- You can find the paper of review here [Download the Zip File](Literature review.pdf)
+- You can find the paper of review here [Download the Paper](https://github.com/IITTeaching/cs520-f23-group-12/blob/main/Literature%20Reivew/Literature%20review.pdf)
 
 ## Data Curation Project
 
