@@ -11,6 +11,12 @@ The group has undertaken the review of the following paper:
 
 For the data curation project, we are utilizing the [Yelp Dataset from Kaggle](https://www.kaggle.com/datasets/yelp-dataset/yelp-dataset/data).
 
+## Notice
+
+Due to technical limitations, I was unable to export the Vizier file as originally intended. Following a meeting with my professor and based on their advice, I have instead uploaded the entire directory in a zip format. You can access and download this zip file from the following link:
+
+[Download the Zip File](vizier-520-project-data.zip)
+
 ## Group Members
 
 - Fateen Ahmed
