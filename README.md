@@ -7,6 +7,8 @@ Welcome to cs520-f23-group-12! This course focuses on the concepts of data integ
 The group has undertaken the review of the following paper:
 - **Explaining Dataset Changes for Semantic Data Versioning with Explain-Da-V**
 
+- You can find the paper of review here [Download the Zip File](Literature review.pdf)
+
 ## Data Curation Project
 
 For the data curation project, we are utilizing the [Yelp Dataset from Kaggle](https://www.kaggle.com/datasets/yelp-dataset/yelp-dataset/data).
